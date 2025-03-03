@@ -70,24 +70,6 @@ This will start your Next.js application, which you can view at http://localhost
 
 The development server features hot reloading, so any changes you make to your code will be immediately reflected in the browser.
 
-## Interface Features
-
-BlockHouse Crypto features a modern, intuitive interface with:
-
-### Dynamic Search Functionality
-A powerful search bar at the top of the dashboard allows you to filter through the displayed cryptocurrencies in real time. As you type, the dashboard automatically updates to show only matching results.
-
-### Interactive Crypto Cards
-Each cryptocurrency is displayed as an interactive card showing current price, 24-hour price change, and volume information. Clicking on a crypto's name opens a detailed modal with:
-- Interactive price chart showing historical performance
-- Comprehensive synopsis of the cryptocurrency
-- Key statistics and market data
-- Recent news and updates
-
-This detail view provides in-depth analysis without cluttering the main dashboard interface.
-
-![Here](interface.png)
-
 ## Set Up the Documentation
 
 If you want to run the documentation site locally:

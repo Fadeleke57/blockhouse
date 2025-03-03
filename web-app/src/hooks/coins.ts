@@ -10,7 +10,8 @@ export function useGetCoinData(ticker: string) {
       );
       return response.data;
     },
-    retry: false,
     staleTime: 0,
+    gcTime: 1000 * 60,
+    retry: false,
   });
 }
